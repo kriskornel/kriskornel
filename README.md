@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @kriskornel, struggling amateur painter but good enough backend programmer (i hope so). I've made a lot of mistakes and still making few mistakes.
-- 👀 I’m interested in building web platform using php (symfony, laravel),  nodejs + typescript, deno and java clojure.
-- 🌱 I’m currently learning functional programming. I believe that TAO of programming exists that's why i'm seeking it through all programming paradigms from OO to Procedural, from Procedural to Functional, from functional to Functional Reactive Programming.
-- 💞️ If you need some help with building web based platform you can reach me. I can help to build your platform from small blog to big ecommerce, from static jamstack site to RESTfull dynamic site, from scratch to already made cms opensource by creating new plugins. 
-- 📫 Send your message to this email korneliuskristian@gmail.com
+Hey there, I'm @kriskornel, an artist struggling to make sense of paint and a backend programmer who's probably good enough (fingers crossed). I've painted my fair share of coding masterpieces, but let's be real, there's always a bug lurking somewhere.
 
-<!---
-kriskornel/kriskornel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm all about crafting web wonders using PHP (Symfony, Laravel), Node.js with TypeScript, Deno, and Java Clojure. It's like juggling flaming chainsaws, but in code.
+
+🌱 Currently, I'm on a quest to understand functional programming. Because who needs simple loops when you can have monads, right? I'm chasing the TAO of programming through Object-Oriented, Procedural, Functional, and whatever new-fangled paradigm comes my way.
+
+💞️ Need a hand with your web escapades? Hit me up! I can help turn your digital daydreams into reality, whether it's a humble blog or an e-commerce extravaganza. From a static Jamstack site to a dynamic RESTful spectacle, I've got you covered. And hey, if your CMS is feeling a bit meh, I'll spice it up with plugins that'll make it the talk of the town.
+
+📫 Shoot me a message at korneliuskristian@gmail.com, and let's turn your digital chaos into a masterpiece – one line of code at a time!
