@@ -6,4 +6,4 @@ Hey there, I'm @kriskornel, an artist struggling to make sense of paint and a ba
 
 💞️ Need a hand with your web escapades? Hit me up! I can help turn your digital daydreams into reality, whether it's a humble blog or an e-commerce extravaganza. From a static Jamstack site to a dynamic RESTful spectacle, I've got you covered. And hey, if your CMS is feeling a bit meh, I'll spice it up with plugins that'll make it the talk of the town.
 
-📫 Shoot me a message at korneliuskristian@gmail.com, and let's turn your digital chaos into a masterpiece – one line of code at a time!
+📫 Shoot me a message at gmail@kriskornel.com, and let's turn your digital chaos into a masterpiece – one line of code at a time!
